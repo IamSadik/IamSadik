@@ -32,7 +32,7 @@
 - 🧑‍💻 Focusing on **Backend Development** & **AI-driven Systems**  
 - 🤝 Open to collaborate on impactful open-source or academic projects  
 - ⚙️ Designing robust APIs and scalable data-driven architectures  
-- 💡 Motto: *“Code it, test it, ship it — and make it scale.”*
+
 
 ---
 
@@ -70,6 +70,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamsadik&repo=Khadok2.0&theme=radical" />
   </a>
 </p>
+
+
 
 ---
 
