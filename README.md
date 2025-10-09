@@ -9,7 +9,29 @@
 
   <p>Building scalable systems & intelligent applications. Passionate about learning, problem-solving, and teamwork.</p>
 
-  <a href="mailto:sadikmahmud01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- Email Copy Button (Simulated Tooltip) -->
+  <div style="position: relative; display: inline-block; margin: 8px;">
+    <a href="mailto:sadikmahmud01@gmail.com" 
+       style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <span style="
+      visibility: hidden;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+      position: absolute;
+      bottom: -35px;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: #333;
+      color: #fff;
+      padding: 6px 10px;
+      border-radius: 6px;
+      font-size: 12px;
+      white-space: nowrap;
+    " id="email-tooltip">📋 Email copied to clipboard!</span>
+  </div>
+
   <a href="https://www.linkedin.com/in/sadik-mahmud-b91949379"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/iamsadikmahmud"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://facebook.com/iamsadikmahmud"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
