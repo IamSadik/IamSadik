@@ -31,12 +31,12 @@
 
 #### 🧩 Core Development Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,postgresql,mongodb,redis,react,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,postgresql,mongodb,react,git,tensorflow&theme=dark" />
 </p>
 
 #### 🧩 Other Technologies & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,php,photoshop,illustrator,vscode,figma,postman,tensorflow,scikitlearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,php,photoshop,illustrator,vscode,figma,postman,scikitlearn&theme=dark" />
 </p>
 
 ---
