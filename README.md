@@ -40,7 +40,7 @@
 
 #### 🧩 Core Development Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,postgresql,mongodb,react,git,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,langgraph,langchain,postgresql,mongodb,react,git,tensorflow&theme=dark" />
 </p>
 
 #### 🧩 Other Technologies & Tools  
