@@ -50,9 +50,6 @@
 
 ### 🌈 Projects Spotlight  
 <p align="center">
-  <a href="https://github.com/iamsadik/COSMOS-ITS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamsadik&repo=COSMOS-ITS&theme=radical" />
-  </a>
   <a href="https://github.com/iamsadik/Khadok2.0">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamsadik&repo=Khadok2.0&theme=radical" />
   </a>
