@@ -9,10 +9,7 @@
 
   <p>Building scalable systems & intelligent applications. Passionate about learning, problem-solving, and teamwork.</p>
 
-  <!-- Contact Buttons -->
-  <a href="mailto:sadikmahmud01@gmail.com" title="Send me an email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <!-- Contact & Profile Buttons -->
   <a href="https://www.linkedin.com/in/sadik-mahmud-b91949379">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -22,15 +19,9 @@
   <a href="https://facebook.com/iamsadikmahmud">
     <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-
-  <br><br>
-
-  <!-- GitHub-safe "copy email" feature -->
-  <details>
-    <summary>📋 Click here to copy my email</summary>
-    <p style="font-weight:bold; color:#6C63FF;">sadikmahmud01@gmail.com</p>
-    <p><i>Tip: Click the email above, copy it manually, or click the Gmail badge to send directly!</i></p>
-  </details>
+  <a href="https://codeforces.com/profile/1nonlysadik">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 
 </div>
 
@@ -54,7 +45,7 @@
 
 #### 🧩 AI & Framework Extensions  
 <p align="center">
-  <!-- LangChain and LangGraph don't have official skillicons, so we use custom badges -->
+  <!-- LangChain and LangGraph custom badges -->
   <img src="https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge&logo=graph&logoColor=white" />
 </p>
