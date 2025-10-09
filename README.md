@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://github.com/iamsadik/banner/blob/main/github-banner.png" alt="Sadik Mahmud Banner" width="100%" />
+  
 
   <h1>👋 Hi, I'm <span style="color:#6C63FF;">Sadik Mahmud</span></h1>
   <h3>🚀 Backend Developer | 🧠 AI Enthusiast | 💼 Open for Collaborations</h3>
