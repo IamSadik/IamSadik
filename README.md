@@ -151,7 +151,7 @@
 
 <div align="center">
   
-  ### 💭 *"Git commit -m 'Made it work. Don't ask how. I don't remember either."*
+  ### 💭 *"Git commit -m 'Made it work. Don't ask how. I don't remember either.'"*
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
   
