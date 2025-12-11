@@ -110,7 +110,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsadik&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamsadik&theme=radical&hide_border=false&area=true" alt="Contribution Graph" />
+  
 </div>
 
 ---
@@ -159,7 +159,6 @@
   
   <p>
     <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Open%20Source-💙-blue?style=for-the-badge" />
   </p>
 
 </div>
