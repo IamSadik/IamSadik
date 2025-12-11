@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6C63FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Sadik+Mahmud;Backend+Developer+%7C+AI+Enthusiast;Building+Scalable+%26+Intelligent+Systems;Open+for+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6C63FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Sadik+Mahmud;Backend+Developer+%7C+AI+Enthusiast;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=iamsadik&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
@@ -11,7 +11,7 @@
   </p>
 
   <!-- Animated Wave -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Crafting+Code+%7C+Building+Dreams&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
   <!-- Profile Introduction -->
   <h3>🚀 Backend Developer | 🧠 AI Enthusiast | 💼 Open for Collaborations</h3>
@@ -110,7 +110,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsadik&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
- 
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamsadik&theme=radical&hide_border=false&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -151,7 +151,7 @@
 
 <div align="center">
   
-  ### 💭 *"Always exploring new tools, experimenting with ideas, and building for tomorrow."*
+  ### 💭 *"Git commit -m 'Made it work. Don't ask how. I don't remember either."*
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
   
