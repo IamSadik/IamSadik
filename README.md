@@ -105,7 +105,8 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamsadik&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsadik&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=iamsadik&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  
 </div>
 
 <div align="center">
