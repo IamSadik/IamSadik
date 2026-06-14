@@ -135,10 +135,7 @@
   <img width="49%" src="https://streak-stats.demolab.com/?user=iamsadik&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsadik&layout=compact&theme=gruvbox&hide_border=false" alt="Top Languages" />
-  
-</div>
+
 
 ---
 
